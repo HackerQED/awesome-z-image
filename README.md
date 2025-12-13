@@ -9,9 +9,9 @@
 1. [Loras](#loras)
 
 ## Loras
-1.[Sheer Mesh Bodysuit](#sheermeshbodysuit)(https://github.com/HackerQED/awesome-z-image/blob/main/README.md#sheer-mesh-bodysuit)
+1.[Sheer Mesh Bodysuit](#https://github.com/HackerQED/awesome-z-image/blob/main/README.md#sheer-mesh-bodysuit)
 
-2.[NiceGirls UltraReal](#NiceGirlsUltraReal)
+2.[NiceGirls UltraReal](#nicegirlsultrareal)
 
  
 ### Sheer Mesh Bodysuit
