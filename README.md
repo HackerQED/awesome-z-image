@@ -13,7 +13,22 @@
 
 2.[NiceGirls UltraReal](#nicegirls-ultrareal)
 
- 
+3.[Lenovo UltraReal](#lenovo-ultrareal)
+
+4.[Instant camera portrait photography](#instant-camera-portrait-photography)
+
+5.[zyd232's Ink Style](#zyd232'sink-style)
+
+6.[PIXEL ART REFINER](#pixel-art-prfiner)
+
+7.[Realistic Water Droplets (Wet Effect) ](realistic-water-droplets-wet-effect) 
+
+8.[Asian Beauties](asian-beauties)
+
+9.[Pro Art](#pro-art)
+
+10.[Z-Image Orc´s](#z-image-orcs)
+
 ### Sheer Mesh Bodysuit
 
 [civitai](https://civitai.com/models/78502/sheermeshbodysuit)
