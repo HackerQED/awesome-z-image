@@ -21,13 +21,15 @@
 
 6.[PIXEL ART REFINER](#pixel-art-refiner)
 
-7.[Realistic Water Droplets (Wet Effect) ](realistic-water-droplets-wet-effect) 
+7.[Realistic Water Droplets ](realistic-water-droplets) 
 
 8.[Asian Beauties](asian-beauties)
 
 9.[Pro Art](#pro-art)
 
-10.[Z-Image Orc´s](#z-image-orcs)
+10[Asian Mix Lora](#asian-mix-lora)
+
+11.[Z-Image Orc´s](#z-image-orcs)
 
 ### Sheer Mesh Bodysuit
 
@@ -111,7 +113,7 @@ The vehicle left in the foreground on the left and has a distinctive design with
 The overall atmosphere is one of isolation and dystopia. The color palette is dominated by warm, dusty tones—yellows, oranges, and reds—enhancing the feeling of heat, desolation, and decay.
 ```
 
-### Realistic Water Droplets (Wet Effect) 
+### Realistic Water Droplets 
 
 [civitai](https://civitai.com/models/764203/z-image-turbo-flux-realistic-water-droplets-wet-effect-by-devildonia)
 
