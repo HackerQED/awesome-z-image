@@ -23,9 +23,9 @@
 
 6.[PIXEL ART REFINER](#pixel-art-refiner)
 
-7.[Realistic Water Droplets](realistic-water-droplets) 
+7.[Realistic Water Droplets](#realistic-water-droplets) 
 
-8.[Asian Beauties](asian-beauties)
+8.[Asian Beauties](#asian-beauties)
 
 9.[Pro Art](#pro-art)
 
