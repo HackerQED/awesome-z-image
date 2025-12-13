@@ -92,6 +92,58 @@ The vehicle left in the foreground on the left and has a distinctive design with
 The overall atmosphere is one of isolation and dystopia. The color palette is dominated by warm, dusty tones—yellows, oranges, and reds—enhancing the feeling of heat, desolation, and decay.
 ```
 
+### Realistic Water Droplets (Wet Effect) 
 
+[civitai](https://civitai.com/models/764203/z-image-turbo-flux-realistic-water-droplets-wet-effect-by-devildonia)
 
+This LoRA adds real water drops and a wet skin effect to images made with Z-Image Turbo, making pictures look more realistic and wet
+
+<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/1acee7e8-deb6-4bb3-8777-c56719aa9016" />
+
+Prompt
+```
+water_droplet_effect, Text letters and words that says "Realistic Water Droplets Z image turbo" in elegant white script at the bottom, an intimate close-up of a caucasian woman's face with a rich, white skin tone speckled with numerous freckles. Water droplets glisten on her cheeks, highlighting her natural beauty and captivating gaze. A photorealistic digital painting with rich colors and intricate details. Soft diffused light accentuates the droplets, creating a luminous effect
+```
+
+### Asian Beauties
+
+[civitai](https://civitai.com/models/785643/z-image-turbo-flux-asian-beauties-by-devildonia)
+
+A Z-Image Turbo LoRA that makes great Asian beauty pictures with smooth faces and vivid detail.
+
+<img width="1152" height="1536" alt="image" src="https://github.com/user-attachments/assets/89c4e802-25c8-40f1-a9f5-73142d465c97" />
+
+Prompt
+```
+close-up portrait of a Chinese asian woman wearing modern qipao, elegant pose, refined makeup, subtle red lipstick, detailed high collar pattern, warm cinematic lighting
+```
+
+### Asian Mix Lora
+
+[civitai](https://civitai.com/models/2185778/z-image-turbo-asian-mix-lora)
+
+This LoRA adds a strong Asian art style to fast Z-Image Turbo image generations, making results look beautiful and clear.
+
+<img width="450" height="788" alt="image" src="https://github.com/user-attachments/assets/580cf476-55e1-4105-ba99-34dcd6454a27" />
+
+Prompt
+```
+A portrait taken during the golden hour, with the warm, saturated colors typical of 1980s film photography. A young woman with a slender physique stands by a calm lake. The setting sun hangs low, casting a fiery glow across the water and backlighting her, creating a soft rim of light around her hair and shoulders. Her off-the-shoulder top is rendered in deep black, a stark silhouette against the vibrant sky. The atmosphere is thick with the quiet hum of twilight, a mix of romance and melancholy, as the day fades into evening.
+```
+
+### Pro Art
+
+[civitai](https://civitai.com/models/2197319/z-image-pro-art)
+
+Z-Image Pro Art is a LoRA that makes Z-Image generate nicer and more artistic pictures with better style and detail.
+
+<img width="450" height="394" alt="image" src="https://github.com/user-attachments/assets/f0ba7e23-d386-4050-987e-4ee3a66fd279" />
+
+Prompt
+```
+highly detailed photo, ultra fine detail, professional photography, cinematic angle, dynamic light back shining, 1girl.
+MesMer1
+```
+
+### 
 
