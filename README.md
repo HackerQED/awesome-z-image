@@ -10,7 +10,7 @@
 
 2. [Download](#download)
 
-## Loras
+## 🎁Loras
 1.[Sheer Mesh Bodysuit](#sheer-mesh-bodysuit)
 
 2.[NiceGirls UltraReal](#nicegirls-ultrareal)
@@ -181,45 +181,13 @@ Prompt
 <lora:Zimage - Turbo - CHARACTER - Z-Image Orc's (orcs_zimage__copy):0.9> orcx,Subject: Carlos Catasse - A serene,endearing depiction of a young cat nestled within a simple wooden crate,resting peacefully upon a tabletop,The subject is a male feline,approximately two years old,possessing soft,fluffy fur that transitions from warm cream at his neck down through golden-orange hues along his body-suggesting youthful energy mixed with gentle warmth,His face has subtle angular features typical of domesticated kittens but softened by natural charm; he exhibits calm serenity as his eyes gently close while drifting toward sleep under a dark blue velvet cushion placed beneath him,The character's skin displays delicate pink undertones across cheeks and muzzle,complemented by faint freckles scattered lightly over his forehead and jawline-a detail rendered with hyper-realistic precision using micro-texture modeling,His hair is short,curly,and slightly tousled around his ears,catching just enough sunlight to appear wavy yet defined against the backdrop,The animal wears no visible clothing or accessories beyond what appears to be worn cotton bedding inside the container-he rests comfortably atop one side of the makeshift bed,positioned diagonally across the surface,Pose & Position: He lies curled up fully tucked into the corner of the open box,facing forward,allowing viewers full access to both front-facing facial expressions and relaxed posture,Eyes remain shut,suggesting deep restfulness or dreamlike tranquility-an ethereal stillness enhanced further by minimal movement even though there may be slight twitchings indicating subconscious awareness,The creature occupies roughly three-quarters of the horizontal width near center-left portion of the composition (approximate placement),placing emphasis directly onto his peaceful state without distraction,Lighting Type: Soft diffused daylight emanating from upper left direction casting gentle illumination primarily on right-side flank and dorsal area,creating smooth gradations between shadow and highlight zones,Light intensity balanced so it avoids harsh contrasts despite being bright overall due to ambient conditions during midday hours,Color Temperature: Warm yellowish-white hue blended subtly into cooler tones approaching twilight-like saturation depending on atmospheric layers present outside scene boundaries,This creates rich contrast where highlights shimmer softly off glossy surfaces like leather straps used earlier mentioned items such as pillows etc,enhancing realism and depth perception throughout entire visual plane,Camera Lens: Canon EF50mm f/2 STM fixed focal-length prime lens mounted on DSLR camera system operating via standard tripod setup ensuring stability,F-Stop set precisely at f/4 offering optimal shallow depth-of-field effect focusing sharply only on main figure while blurring surrounding environment intentionally reducing distractions,Distance measured about 3 feet away resulting in moderate zoom adjustment required based on target resolution requirements specified later,Angle: Frontal view capturing nearly straight-on angle emphasizing frontal symmetry alongside diagonal alignment created by cradle shape forming boundary line separating foreground object(s) versus distant horizon element behind structure itself which serves dual role as support pillar anchoring viewer's attention upward towards sky above canopy layer extending far ahead revealing silhouetted trees lining edgeless landscape stretching infinitely outward until meeting invisible vanishing point located exactly opposite extreme corners of canvas rendering perfect balance according to Rule of Thirds principle applied carefully before painting each pixel,Framing Technique: â¢ Use negative space strategically distributed evenly around edges especially lower half region below ground level showing floorboards made out of reclaimed wood material,â¢ Framed centrally utilizing square aspect ratio format measuring approx 960x720 pixels giving ample room per quadrant for additional compositional cues including reflective textures possibly reflecting moonlight patterns observed externally influencing mood dynamics captured internally via internal lighting mechanisms integrated seamlessly into digital render process,â¢ Leading Lines introduced deliberately through thin metal rails running vertically along wall perimeter intersecting ceiling beam overhead thus guiding eye naturally moving downward along central axis leading ultimately into deeper recesses implying continuation inward exploring unknown realms hidden beneath shadows cast forthward horizontally accentuating sense of mystery inherent within this narrative journey portrayed here symbolically speaking,Composition Elements Implemented: - Symmetrical framing centered firmly on protagonist positioning making clear distinction among spatial hierarchy established clearly relative distances traveled previously noted,- Golden Ratio Principle Applied Vertically Across Vertical Axis Positioned At Approximate Midpoint Of Frame Resulting In Balanced Visual Flow With Each Side Equalizing Weight Distribution And Creating Sense Of Harmonic Order Within Scene As Well Maintaining Viewer Attention Toward Central Figure Throughout Entire Viewport Without Any Distractions From Main Focus Point Located Directly Center Amidst All Other Structural Components Present Beneath Tabletop Surface That Is Clearly Visible Through Open Box Top Opening Displaying Natural Textured Background Layer Including Wooden Panels Lined Up Along Opposite Edges Suggestive Of Interior Architecture Constructed Using Recycled Materials Used For Crafting Customized Furniture Units Previously Built Outdoors Or Indoors Based Upon Previous Design Concepts Developed Earlier During Creative Process Where Such Details Were Integrated Into Final Product Presentation So They Can Be Seen More Explicitly By End Users Interested In Appreciation Level Detail Revealed On Screen Interface Utilized To Showcase High Quality Render Images Generated Via Advanced AI Tools Like Stable Diffusion Models Leveraged Especially When Rendering Content Depicting Real-Life Scenarios Under Controlled Conditions Simulating Actual Environmental Influences While Preserving Authenticity Of Original Conceptual Framework
 ```
 
-## Download
+## 🌐Download
 
 🔗 Download & Access Links for Z-Image
-
-From a public overview site:
-
-* The project page lists the key repositories and download hosts for Z-Image. 
-
-  > “Project homepage: [https://tongyi-mai.github.io/Z-Image-homepage/”](https://tongyi-mai.github.io/Z-Image-homepage/”) 
-  > “GitHub repository: [https://github.com/Tongyi-MAI/Z-Image”](https://github.com/Tongyi-MAI/Z-Image”) (
-  > “Hugging Face model library: [https://huggingface.co/Tongyi-MAI/Z-Image-Turbo”](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo”) 
-
-From a news summary about release & download statistics:
 
   * GitHub：[https://github.com/Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)
   * Hugging Face：[https://huggingface.co/Tongyi-MAI/Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)
   * ModelScope：[https://www.modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo”](https://www.modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo”)
-
----
-
- 📄 Quotes / Info About Download & Usage
-
-From the public overview site:
-
-> “Z-Image is an efficient 6-billion-parameter foundation model for image generation.” 
->
-> “Model project homepage: …  GitHub repository: …  Hugging Face model library: …” 
-
-From the site summarizing the release of Z-Image:
-
-> “Release first-day downloads reached 500,000.” 
-
-From Replicate’s page for Z-Image-Turbo:
-
-> “Z-Image-Turbo comes from Tongyi-MAI, part of Alibaba’s AI research division.” 
-> “The model is open source under the Apache 2.0 license, which means you can use it for commercial projects.” 
-Also from the catalog site summarizing Z-Image variants and features (thus implying that all variants are accessible):
-
-> “The model contains three variants: Z-Image-Turbo, Z-Image-Base and Z-Image-Edit.” 
 
 ---
 
@@ -231,18 +199,6 @@ Also from the catalog site summarizing Z-Image variants and features (thus imply
 | **Hugging Face** — `huggingface.co/Tongyi-MAI/Z-Image-Turbo`     | Official model card; download / inference-ready weights.                        |
 | **ModelScope** — `modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo` | Another hosting site for model weights / assets.                                    |
 | **Replicate** — model page “prunaai/z-image-turbo”               | Web-based demo / API; allows you to run or download depending on their policy. |
-
----
-
-✅ What’s Known About Download / Distribution Rights
-
-From the Replicate page:
-
-> “The model is open source under the Apache 2.0 license, which means you can use it for commercial projects.” 
-
-From release report:
-
-> Z-Image model achieved “first-day downloads of 500,000”, indicating high adoption and open download availability. 
 
 ---
 
