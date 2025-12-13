@@ -17,9 +17,9 @@
 
 4.[Instant camera portrait photography](#instant-camera-portrait-photography)
 
-5.[zyd232's Ink Style](#zyd232'sink-style)
+5.[zyd232's Ink Style](#zyd232s-ink-style)
 
-6.[PIXEL ART REFINER](#pixel-art-prfiner)
+6.[PIXEL ART REFINER](#pixel-art-refiner)
 
 7.[Realistic Water Droplets (Wet Effect) ](realistic-water-droplets-wet-effect) 
 
