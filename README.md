@@ -8,7 +8,7 @@
 
 1. [Loras](#loras)
 
-2.[Download](#download)
+2. [Download](#download)
 
 ## Loras
 1.[Sheer Mesh Bodysuit](#sheer-mesh-bodysuit)
@@ -187,27 +187,17 @@ Prompt
 
 From a public overview site:
 
-* The project page lists the key repositories and download hosts for Z-Image. ([AI工具集][1])
+* The project page lists the key repositories and download hosts for Z-Image. 
 
-  > “Project homepage: [https://tongyi-mai.github.io/Z-Image-homepage/”](https://tongyi-mai.github.io/Z-Image-homepage/”) ([AI工具集][1])
-  > “GitHub repository: [https://github.com/Tongyi-MAI/Z-Image”](https://github.com/Tongyi-MAI/Z-Image”) ([AI工具集][1])
-  > “Hugging Face model library: [https://huggingface.co/Tongyi-MAI/Z-Image-Turbo”](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo”) ([AI工具集][1])
+  > “Project homepage: [https://tongyi-mai.github.io/Z-Image-homepage/”](https://tongyi-mai.github.io/Z-Image-homepage/”) 
+  > “GitHub repository: [https://github.com/Tongyi-MAI/Z-Image”](https://github.com/Tongyi-MAI/Z-Image”) (
+  > “Hugging Face model library: [https://huggingface.co/Tongyi-MAI/Z-Image-Turbo”](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo”) 
 
 From a news summary about release & download statistics:
 
-* “各平台开源链接如下：
-
   * GitHub：[https://github.com/Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)
   * Hugging Face：[https://huggingface.co/Tongyi-MAI/Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)
-  * ModelScope：[https://www.modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo”](https://www.modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo”) ([新浪财经][2])
-
-From a public “model catalog / directory” site:
-
-* On the page titled *“Z-Image – 阿里通义推出的图像生成模型”*, there’s a “project address” section listing: GitHub, Hugging Face and a technical report. ([AI工具集][1])
-
-From a third-party hosting site / model-as-a-service site:
-
-* On Replicate (third-party host), there is a page for “prunaai/z-image-turbo”, implying that you can access and run/download the model via Replicate’s interface. ([Replicate][3])
+  * ModelScope：[https://www.modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo”](https://www.modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo”)
 
 ---
 
@@ -215,22 +205,21 @@ From a third-party hosting site / model-as-a-service site:
 
 From the public overview site:
 
-> “Z-Image is an efficient 6-billion-parameter foundation model for image generation.” ([AI工具集][1])
+> “Z-Image is an efficient 6-billion-parameter foundation model for image generation.” 
 >
-> “Model project homepage: …  GitHub repository: …  Hugging Face model library: …” ([AI工具集][1])
+> “Model project homepage: …  GitHub repository: …  Hugging Face model library: …” 
 
 From the site summarizing the release of Z-Image:
 
-> “Release first-day downloads reached 500,000.” ([新浪财经][2])
+> “Release first-day downloads reached 500,000.” 
 
 From Replicate’s page for Z-Image-Turbo:
 
-> “Z-Image-Turbo comes from Tongyi-MAI, part of Alibaba’s AI research division.” ([Replicate][3])
-> “The model is open source under the Apache 2.0 license, which means you can use it for commercial projects.” ([Replicate][3])
-
+> “Z-Image-Turbo comes from Tongyi-MAI, part of Alibaba’s AI research division.” 
+> “The model is open source under the Apache 2.0 license, which means you can use it for commercial projects.” 
 Also from the catalog site summarizing Z-Image variants and features (thus implying that all variants are accessible):
 
-> “The model contains three variants: Z-Image-Turbo, Z-Image-Base and Z-Image-Edit.” ([AI工具集][1])
+> “The model contains three variants: Z-Image-Turbo, Z-Image-Base and Z-Image-Edit.” 
 
 ---
 
@@ -238,10 +227,10 @@ Also from the catalog site summarizing Z-Image variants and features (thus imply
 
 | Host / Platform                                                  | What you get / Do                                                                               |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **GitHub** — `github.com/Tongyi-MAI/Z-Image`                     | Full repository, model weights, documentation. ([AI工具集][1])                                     |
-| **Hugging Face** — `huggingface.co/Tongyi-MAI/Z-Image-Turbo`     | Official model card; download / inference-ready weights. ([AI工具集][1])                           |
-| **ModelScope** — `modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo` | Another hosting site for model weights / assets. ([新浪财经][2])                                    |
-| **Replicate** — model page “prunaai/z-image-turbo”               | Web-based demo / API; allows you to run or download depending on their policy. ([Replicate][3]) |
+| **GitHub** — `github.com/Tongyi-MAI/Z-Image`                     | Full repository, model weights, documentation.                              |
+| **Hugging Face** — `huggingface.co/Tongyi-MAI/Z-Image-Turbo`     | Official model card; download / inference-ready weights.                        |
+| **ModelScope** — `modelscope.cn/models/Tongyi-MAI/Z-Image-Turbo` | Another hosting site for model weights / assets.                                    |
+| **Replicate** — model page “prunaai/z-image-turbo”               | Web-based demo / API; allows you to run or download depending on their policy. |
 
 ---
 
@@ -249,11 +238,11 @@ Also from the catalog site summarizing Z-Image variants and features (thus imply
 
 From the Replicate page:
 
-> “The model is open source under the Apache 2.0 license, which means you can use it for commercial projects.” ([Replicate][3])
+> “The model is open source under the Apache 2.0 license, which means you can use it for commercial projects.” 
 
 From release report:
 
-> Z-Image model achieved “first-day downloads of 500,000”, indicating high adoption and open download availability. ([新浪财经][2])
+> Z-Image model achieved “first-day downloads of 500,000”, indicating high adoption and open download availability. 
 
 ---
 
